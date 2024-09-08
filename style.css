@@ -37,16 +37,16 @@ header {
     z-index: 100;
 }
 
-.logo {
-    font-size: 3rem;
-    color: #ffffff;
-    font-weight: 800;
-    cursor: pointer;
-    transition: 0.5s ease;
+.logo1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    background-color: #ffffff00;
 }
 
-.logo:hover {
-    transform: scale(1.1);
+.logo1:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 5px #ffffff;
 }
 
 nav a {
@@ -303,10 +303,6 @@ span {
 
     header {
         padding: 2.5rem 5%;
-    }
-
-    .logo {
-        font-size: 2.5rem;
     }
 
     nav a {
