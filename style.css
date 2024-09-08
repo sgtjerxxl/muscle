@@ -99,7 +99,7 @@ nav a.active {
 
 section {
     min-height: 100vh;
-    padding: 5rem 9% 5rem;
+    padding: 10rem 9% 1rem;
 }
 
 .home {
@@ -107,7 +107,7 @@ section {
     justify-content: space-evenly;
     align-items: center;
     background-color: #161616;
-    gap: 8rem;
+    gap: 2rem;
 }
 
 .home-content {
